@@ -1,3 +1,6 @@
+---
+title: Wombat
+---
 # WombatCam
 
 [README](README)  
