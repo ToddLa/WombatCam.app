@@ -1,1 +1,3 @@
-# Index.md
+# WombatCam
+
+[README](README)
