@@ -1,3 +1,6 @@
+---
+title:WombatCam.app
+---
 # WombatCam
 
-[README](README)
+[README](README.md)
