@@ -1,0 +1,22 @@
+<!doctype html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <title>{{ page.title | site.title | default: site.github.repository_name }}</title>
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <meta name="viewport" content="width=device-width">
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <style>
+    img[alt*="align:left"] {float:left; padding:0.5em}
+    img[alt*="align:right"] {float:right; padding:0.5em}
+    img[alt*="align:center"] {display: block; margin-left: auto; margin-right: auto; clear:both}
+    img[alt*="align:full"] {width:100%} 
+    </style>
+  </head>
+  <body>
+      {{ content }}
+  </body>
+</html>
