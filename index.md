@@ -1,7 +1,9 @@
 ---
 title: Wombat
 ---
-# WombatCam
+# ![Image](WombatCamIcon256.png) WombatCam
+
+![Image](WombatCamIcon256.png)
 
 WombatCam is the easiest way to put a live WebCam on your home screen as a Widget.
 
