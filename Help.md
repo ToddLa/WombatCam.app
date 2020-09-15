@@ -1,6 +1,6 @@
 # Help
 
-## How to add a **WebCam** to your homw screen with **WombatCam**
+## How to add a **WebCam** to your home screen with **WombatCam**
 
 1.  Run **WombatCam** on iOS 14 or later.
 2.  Tap the `+` button
