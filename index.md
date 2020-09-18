@@ -7,7 +7,7 @@ WombatCam is the easiest way to put a live WebCam on your home screen as a Widge
 
 WombatCam does not show ads, track you, or use any creepy 3rd party libraries.
 
-[![AppStore](AppStore.png)](http://AppStore.com/WombatCam)
+[![AppStore](AppStore.png)](https://apps.apple.com/us/app/wombatcam/id1531524646)
 
 <img src="screenshot_1.png" width="30%">  <img src="screenshot_2.png" width="30%">  <img src="screenshot_3.png" width="30%">
 
