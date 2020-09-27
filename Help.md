@@ -18,6 +18,10 @@ title: Help
 11. Long press on the **WombatCam** Widget to change what **WebCam** is displayed.
 
 <img src="WombatCamFirstTimeScreen1.png" width="30%"> <img src="WombatCamFirstTimeScreen2.png" width="30%"> <video src="WombatCamFirstTime.m4v" width="30%">
+  
+<video width="320" height="240" controls>
+  <source src="WombatCamFirstTime.m4v" type="video/mp4">
+</video>
 
 ## Support and Feedback
 [@ToddLa](https://twitter.com/ToddLa)  
