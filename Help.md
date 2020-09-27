@@ -1,4 +1,7 @@
-# Help
+---
+title: Help
+---
+# **WombatCam** Help
 
 ## How to add a **WebCam** to your home screen with **WombatCam**
 
@@ -13,3 +16,9 @@
 9.  Choose a Widget size, and Tap `Add Widget`
 10. Tap `Done` to leave "jiggle" mode.
 11. Long press on the **WombatCam** Widget to change what **WebCam** is displayed.
+
+<img src="WombatCamFirstTimeScreen1.png" width="30%"> <img src="WombatCamFirstTimeScreen1.png" width="30%">
+
+## Support and Feedback
+[@ToddLa](https://twitter.com/ToddLa)
+[mail](mailto:ToddLa+WombatCam@HotMail.com)
