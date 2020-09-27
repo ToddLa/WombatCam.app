@@ -17,7 +17,7 @@ title: Help
 10. Tap `Done` to leave "jiggle" mode.
 11. Long press on the **WombatCam** Widget to change what **WebCam** is displayed.
 
-<img src="WombatCamFirstTimeScreen1.png" width="30%"> <img src="WombatCamFirstTimeScreen2.png" width="30%"> <video src="WombatCamFirstTime.m4v" width="30%" autoplay loop>
+<img src="WombatCamFirstTimeScreen1.png" width="30%" style="min-width:320px"> <img src="WombatCamFirstTimeScreen2.png" width="30%" style="min-width:320px"> <video src="WombatCamFirstTime.m4v" width="30%" style="min-width:320px" autoplay loop>
   
 ## Support and Feedback
 [@ToddLa](https://twitter.com/ToddLa)  
