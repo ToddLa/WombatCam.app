@@ -13,5 +13,6 @@ WombatCam does not show ads, track you, or use any creepy 3rd party libraries.
 
 [Help](Help)  
 [Privacy](Privacy)  
-[Feedback](https://twitter.com/messages/compose?recipient_id=14872094&text=WombatCam%20feedback)  
+[Feedback](mailto:ToddLa+WombatCam@HotMail.com)  
+[@ToddLa](https://twitter.com/ToddLa)  
 
